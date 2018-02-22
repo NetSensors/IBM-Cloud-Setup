@@ -16,23 +16,30 @@ IBM cloud dashboard here! https://console.bluemix.net/dashboard/
 
 1. Click on Node-RED Starter this will take you too the Clound Foundry Application Configuration screen
 
+
 ![Screenshot](screenshots/IBM002.png)
 
 1. Enter the app name you would like to call your Node-RED application instance. This name will show up as part of your URL.
-2. Click create this will now create the application
+2. Click create this will now create the application.
+
 
 ![Screenshot](screenshots/IBM003.png)
-\
-\
-\
+
+1. You may find yourself at this helpful blank screen. Click on the IBM cloud
+
+
 ![Screenshot](screenshots/ibm004.png)
-\
-\
-\
+
+1. Check to see if the application is running if not then you need to start it.
+2. Click on the three vertical dots to bring up the menu.
+3. Click on the Start App option to start the application. It may take sometime to start or timeout completley. If it does just click on the cloud in the top left corner again. 
+
 ![Screenshot](screenshots/ibm005.png)
-\
-\
-\
+
+1. If the Appliation is showing as Awake
+2. Click on the URL under route to take you to the Node-RED setup screens
+
+
 ![Screenshot](screenshots/ibm006.png)
 \
 \
