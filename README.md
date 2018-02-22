@@ -7,17 +7,20 @@ After following the registration process you will be asked to confirm your email
 
 IBM cloud dashboard here! https://console.bluemix.net/dashboard/
 
-- Click on create resource this will take you to a screen where you can choose the node red application
+# Node Red install as an IBM Cloud Service
+
+1. Click on create resource this will take you to a screen where you can choose the node red application
 
 
 ![Screenshot](screenshots/IBM001.png)
-\
-\
-\
+
+1. Click on Node-RED Starter this will take you too the Clound Foundry Application Configuration screen
+
 ![Screenshot](screenshots/IBM002.png)
-\
-\
-\
+
+1. Enter the app name you would like to call your Node-RED application instance. This name will show up as part of your URL.
+2. Click create this will now create the application
+
 ![Screenshot](screenshots/IBM003.png)
 \
 \
