@@ -70,6 +70,8 @@ IBM cloud dashboard here! https://console.bluemix.net/dashboard/
 
 ![Screenshot](screenshots/ibm012.png)
 
-- Congratulations, if you wish to try out your node red applicaion now then follow this link to the instructions on how to get a simple Node-RED example working. 
+- Congratulations, if you wish to try out your node red applicaion now then follow this link to the instructions on how to get a simple Node-RED example working. https://github.com/NetSensors/Node-RED-Simple-Example
 
 ![Screenshot](screenshots/ibm013.png)
+
+
